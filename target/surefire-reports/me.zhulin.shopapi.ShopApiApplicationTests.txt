@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: me.zhulin.shopapi.ShopApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 40.811 s - in me.zhulin.shopapi.ShopApiApplicationTests

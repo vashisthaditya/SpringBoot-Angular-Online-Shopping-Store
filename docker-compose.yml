@@ -1,7 +1,8 @@
 version: '2'
 services:
   db:
-    image: postgres:9.4.5
+    image: postgres
+    restart: always
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: root
